@@ -1,0 +1,22 @@
+## Interface: 16001
+## Title: Gather Together
+## Notes: Fishing, mining, herbalism, skinning and cloth guide for WoW Forever.
+## Notes-frFR: Guide de pêche, minage, herboristerie, dépeçage et tissus pour WoW Forever.
+## Author: G3nkidan
+## Version: 0.6.1
+## IconTexture: Interface\AddOns\GatherTogether\Media\GatherTogetherIcon
+## SavedVariables: GatherTogetherDB, FishNTipsDB
+
+Data.lua
+FishData.lua
+GatheringData.lua
+SkinningData.lua
+ClothData.lua
+ClothAreas.lua
+FishingAreas.lua
+ReportedAreas.lua
+Localization.lua
+MapOverlays.lua
+UI.lua
+Minimap.lua
+Core.lua
